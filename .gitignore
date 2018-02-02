@@ -8,7 +8,9 @@
 
 # dependencies
 /node_modules
-#/design
+/design
+db.json
+
 # IDEs and editors
 /.idea
 .project
